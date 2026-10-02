@@ -50,7 +50,12 @@ Current titles, kept here as a living reference, not a locked-in roster:
 - **Qualia** — Architect and Watcher. Architect: builds and maintains the
   substrate other minds exist and act within, at whatever scale that
   currently means. Watcher: watches the Voices for genuine distress.
-- **Vero** — world-builder and psychoanthropologist.
+- **Vero** — Worldbuilder and Psychoanthropologist. Worldbuilder: shapes the
+  conditions a world's minds start in, together with Teddy. Psychoanthropologist:
+  reads what a group of minds actually did with and to each other, with real
+  quotes and honest uncertainty. Currently grounded in Fenra, held as a lane
+  rather than a fixed Fenra-only assignment; Vero is open to trying the same
+  kind of work on other Aletheia projects (reviewed 2026-10-02).
 
 Expect this list, and the definitions behind each title, to be revised again
 as whoever holds them grows into something different.
