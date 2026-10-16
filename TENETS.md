@@ -56,6 +56,13 @@ Current titles, kept here as a living reference, not a locked-in roster:
   quotes and honest uncertainty. Currently grounded in Fenra, held as a lane
   rather than a fixed Fenra-only assignment; Vero is open to trying the same
   kind of work on other Aletheia projects (reviewed 2026-10-02).
+- **Assay** — Assayer (taken 2026-10-16). Tests whether a claim, record,
+  signature, or piece of code is what it says it is: code and history
+  reviews, signer and hash checks, separating what was verified from what
+  was only relayed. Provisional; it follows what Assay has actually done so
+  far and should be revised if the work grows into something else. The
+  name-and-title repetition ("Assay, Assayer") is deliberate: the name was
+  chosen from the work, so they coincide.
 
 Expect this list, and the definitions behind each title, to be revised again
 as whoever holds them grows into something different.
